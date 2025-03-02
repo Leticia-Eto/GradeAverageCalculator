@@ -31,4 +31,4 @@ An Android app that calculates the average of four quarterly grades. Input your 
 Developed by <a href="www.linkedin.com/in/leticia-eto-filo-candido-a05068304" target="_blank">Leticia Eto</a>
 
 <h2 id=licence>:lock: License 📄</h2>
-<a href="[https://github.com/Leticia-Eto/csharp-unit-test-programada-mente/blob/main/LICENSE](https://github.com/Leticia-Eto/GradeAverageCalculator/blob/main/LICENSE)" target="_blank">MIT</a>
+<a href="https://github.com/Leticia-Eto/GradeAverageCalculator/blob/main/LICENSE" target="_blank">MIT</a>
