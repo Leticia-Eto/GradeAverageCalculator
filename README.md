@@ -18,13 +18,15 @@ An Android app that calculates the average of four quarterly grades. Input your 
    ```bash
    git clone https://github.com/Leticia-Eto/GradeAverageCalculator.git
 
-2.Build and run the app on an emulator or physical device.
+2.Import the project into Android Studio.
 
-3.Enter your name in the EditText field.
+3.Run the app on an emulator or device.
 
-4.Tap the "Greet Me" button.
+4.Enter your four grades .
 
-5.See the greeting message displayed below!
+5.Tap the button.
+
+6.View your average displayed below.
 
 <h2 id=author>:grin: Autor</h2>
 
